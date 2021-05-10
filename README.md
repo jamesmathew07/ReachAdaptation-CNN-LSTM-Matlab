@@ -19,3 +19,5 @@ offline Adaptation: PosToXYposvel_LSTMnet_AdaptFullLoop3
 online, within trial adaptation : PosToXYposvel_LSTMnet_AdaptFullLoop4_ParallelComp
 
 Pretrained networks are provided
+
+JPCA implementation is given in the code ConVec_To_Vel_LSTM3.m, JPCA functionas are in the JPCA.zip copied and modified from ChurchlandLab
